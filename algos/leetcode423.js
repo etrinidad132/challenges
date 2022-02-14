@@ -268,5 +268,5 @@ s = "fviefuro";
 // console.log(shallowEquality(sequencer("alpha"), sequencer("aahlp")))
 // console.log(arraySequencer(numNames))
 
-// console.log(containsAllTheChars(s, z))
+console.log(containsAllTheChars(s, z))
 console.log(originalDigits(s));
