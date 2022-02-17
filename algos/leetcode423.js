@@ -260,8 +260,8 @@ const z = "zero".split("");
 s = "fviefuro";
 // Output: "45"
 
-console.log(sortString("alpha"))
-console.log(sortString("zero"))
+// console.log(sortString("alpha"))
+// console.log(sortString("zero"))
 console.log(sequencer("alpha"))
 console.log(sequencer("aahlp"))
 
