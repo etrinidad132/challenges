@@ -269,4 +269,4 @@ console.log(sequencer("aahlp"))
 // console.log(arraySequencer(numNames))
 
 console.log(containsAllTheChars(s, z))
-console.log(originalDigits(s));
+// console.log(originalDigits(s));
